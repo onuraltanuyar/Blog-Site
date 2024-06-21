@@ -1,4 +1,4 @@
 # Blog-Site
 Proje yürütmek ya da geliştirmek isteyenler için blog site tasarımıdır.
 
-![alt text](http://github.com/onuraltanuyar/tasarim.png)
+![Görsel](https://i.hizliresim.com/og6il3m.png)
